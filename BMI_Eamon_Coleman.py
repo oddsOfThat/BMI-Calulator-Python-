@@ -180,7 +180,7 @@ class BMI:
 
         def metric_checker():
             """
-            Catches if the user has input a too small/large value in the imperial fields
+            Catches if the user has input a too small/large value in the metric fields
             """
             CHECK_KG = (kg.get())
             CHECK_CMs = (CMs.get())
